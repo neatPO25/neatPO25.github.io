@@ -24,6 +24,10 @@ h1 {
 h3 {
     margin-top: 1.3vh;
     margin-bottom: 0;
+    font-weight: normal;
+}
+u {
+    font-weight: bold;
 }
 h4 {
     margin-top: 10px;
